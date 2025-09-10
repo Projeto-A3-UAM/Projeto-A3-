@@ -4,12 +4,12 @@ Sistema Computacional integrafo para gestão de projetos e equipes utilizando Ja
 
 ## Equipe 
 
-Dayane Sousa Costa Vasconcelos RA 2025207707
-Eunice Sant'Ana Lira RA 20251005559
-Karine de Lima Antonio RA 2025103781
-Samuel da Silva Santos RA 2025101000
-Sophia Silveira Sousa RA 2025115638
-Vitor Santos RA 2025106176
+-Dayane Sousa Costa Vasconcelos RA 2025207707
+-Eunice Sant'Ana Lira RA 20251005559
+-Karine de Lima Antonio RA 2025103781
+-Samuel da Silva Santos RA 2025101000
+-Sophia Silveira Sousa RA 2025115638
+-Vitor Santos RA 2025106176
 
 ### ✅ Requisitos Implementados
 
@@ -66,12 +66,12 @@ Vitor Santos RA 2025106176
 ├── Criptografia de senhas no banco de dados                 
 ├── Controle de sessão com timeout automático
 ├── Logs de auditoria para operações importantes 
-└── Interface responsiva com feedback visual 
-└── Carregamento otimizado de dados grande  
-└── Filtros e buscas avançadas  
-└── Mensagens de erros claras e orientativas  
-└── Código Organizado seguindo padrão MVC 
-└── Extrutura preparada para extensões 
+├── Interface responsiva com feedback visual 
+├── Carregamento otimizado de dados grande  
+├── Filtros e buscas avançadas  
+├── Mensagens de erros claras e orientativas  
+├── Código Organizado seguindo padrão MVC 
+├── Extrutura preparada para extensões 
 
 
 ## Tecnologias Proposta 
