@@ -59,19 +59,19 @@ Sistema Computacional integrafo para gestão de projetos e equipes utilizando Ja
 
 ### ✅ Requisitos Implementados
 
-├── Integridade referencial no banco MuSQL    
-├── Backup automático dos dados  
-├── Transações seguras para operaçõoes críticas
-├── Validação de Dados   
-├── Criptografia de senhas no banco de dados           
-├── Controle de sessão com timeout automático
-├── Logs de auditoria para operações importantes
-├── Interface responsiva com feedback visual
-├── Carregamento otimizado de dados grande
-├── Filtros e buscas avançadas
-├── Mensagens de erros claras e orientativas  
-├── Código Organizado seguindo padrão MVC
-├── Extrutura preparada para extensões
+- Integridade referencial no banco MuSQL    
+- Backup automático dos dados  
+- Transações seguras para operaçõoes críticas
+- Validação de Dados   
+- Criptografia de senhas no banco de dados           
+- Controle de sessão com timeout automático
+- Logs de auditoria para operações importantes
+- Interface responsiva com feedback visual
+- Carregamento otimizado de dados grande
+- Filtros e buscas avançadas
+- Mensagens de erros claras e orientativas  
+- Código Organizado seguindo padrão MVC
+- Extrutura preparada para extensões
 
 
 ## Tecnologias Proposta 
