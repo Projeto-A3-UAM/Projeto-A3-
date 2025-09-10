@@ -11,9 +11,8 @@ Sistema Computacional integrafo para gestão de projetos e equipes utilizando Ja
 - Sophia Silveira Sousa RA 2025115638
 - Vitor Santos RA 2025106176
 
-### ✅ Requisitos Implementados
+### ✅ Atvidade Proposta
 
-- **Paradigma Orientado a Objetos**: Todo o sistema foi desenvolvido seguindo OOP
 
 ## Cadastro de usuários
 
