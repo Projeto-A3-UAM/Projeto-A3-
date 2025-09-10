@@ -73,7 +73,7 @@ Sistema Computacional integrafo para gestão de projetos e equipes utilizando Ja
 - Extrutura preparada para extensões
 
 
-## Tecnologias Proposta 
+## Tecnologia Proposta 
 
 - Java 11+
 - Orientação a Objetos (POO)
